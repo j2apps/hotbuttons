@@ -6,4 +6,5 @@ Credit to Professor Michael Peshkin for the code regarding microwave power readi
 
 I2S audio code was adapted from Mike Teachman's Micropython I2S Audio Examples: https://github.com/miketeachman/micropython-i2s-examples
 
-Audio was generated using Narakeet: narakeet.com
+Audio was generated using Narakeet: https://www.narakeet.com
+
