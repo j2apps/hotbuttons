@@ -4,4 +4,4 @@ It is meant for a Pico H which controls a microwave user interface for adults wi
 
 Credit to Professor Michael Peshkin for code regarding microwave power readings
 
-Credit to Mike Teachman for the I2S audio code
+I2S Code was adapted from Mike Teachman's Micropython I2S Audio Examples: https://github.com/miketeachman/micropython-i2s-examples
